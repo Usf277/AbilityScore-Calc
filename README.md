@@ -13,6 +13,7 @@ A simple C# console application that calculates a DnD-like "ability score" based
 
 The ability score is calculated as:
 
+score = max(Minimum, AddAmount + (RollResult / DivideBy))
 
 ## 🖥️ Usage
 
